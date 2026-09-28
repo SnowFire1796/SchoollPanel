@@ -1,0 +1,6 @@
+{
+  "name": "School Panel",
+  "description": "سامانه مدیریت نمرات و کارنامه مدرسه V0.1 با پشتیبانی آفلاین و همگام‌سازی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
